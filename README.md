@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -104,3 +105,7 @@ php artisan key:generate
 php artisan migrate
 php artisan serve
 >>>>>>> 3809debec7b723283fc657a0f7d523afa788f0d0
+=======
+# back-for-Qa
+.وال **طرح الأسئلة**: إذا كان لديك استفسار حول مشكلة واجهتك. 2. **البحث عن إجابات**: استخدام محرك البحث للعثور على حلول سابقة أو معلومات مفيدة. 3. **مشاركة المعرفة**: دعم الآخرين من خلال الإجابة على أسئلتهم ومشاركة تجاربك.QA
+>>>>>>> dfede94dce43177a2e461d7d99c935f85d4fd764
